@@ -47,3 +47,5 @@ grandTotal(
     rocky.subscription,
     rocky.coupon
 )
+
+console.log `things are not going great`
